@@ -51,4 +51,4 @@ python cvxpy_example.py
 ``` 
 (Python 3.9.0)
 
-__ 2021 06 17 __
+__ @ 2021 06 17 __
